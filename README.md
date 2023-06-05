@@ -1,38 +1,15 @@
 # GraduationDesignSrc
 
 #### 介绍
-本仓库在毕设收尾阶段一次性上传，存放以下内容：
+
+笔者的毕设一共对应两个仓库，分为`毕设过程性仓库（长期维护）`和`毕设代码仓库（短期维护）`。
+
+[毕设代码仓库（短期维护）](https://github.com/LancerEnk/GraduationDesign-src)，即本仓库，本仓库在毕设收尾阶段一次性上传，存放以下内容：
+
 * 存放笔者完善的出租车调度系统源代码
 
-#### 软件架构
-软件架构说明
+[毕设过程性仓库（长期维护）](https://github.com/LancerEnk/GraduationDesign)，该仓库从1月份维护至毕设结束，存放以下内容：
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+* 存放毕设相关文档
+* 复现区块链 + 出租车调度系统的实验1~7代码
+* 开发过程中的阶段性代码 + 数据存档
